@@ -16,7 +16,8 @@ from .serializers import (
     MovieRetrieveSerializer,
     CinemaHallSerializer,
     MovieSessionSerializer,
-    MovieSessionRetrieveSerializer, MovieSessionListSerializer
+    MovieSessionRetrieveSerializer,
+    MovieSessionListSerializer,
 )
 
 
